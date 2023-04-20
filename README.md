@@ -1,2 +1,2 @@
 # primeiroRepositorio
- Primeiro Repositório Git
+ Primeiro Repositório Git - Curso Git e GitHub do Gustavo Guanabara
